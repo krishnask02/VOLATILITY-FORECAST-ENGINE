@@ -1,0 +1,34 @@
+{
+    "cookie": "cookie",
+    "smartphone": "smartphone",
+    "carrot": "carrot",
+    "broccoli": "broccoli",
+    "floor_lamp": "floor lamp",
+    "grass": "grass",
+    "moon": "moon",
+    "mug": "mug",
+    "sword": "sword",
+    "sun": "sun",
+
+    "loading": "Loading...",
+
+    "try1_try": "Try to draw",
+    "try2_15s": "in 15 seconds",
+    
+    "thats_all": "That's all!\n\nPictures are automatically sent to a server created by me.\nIn case of bugs or suggestions, contact me on Discord (Supernova#6608)",
+    
+    "thanks_for_help": "Thanks for your help!",
+    
+    "play_again": "If you want to play again - click the button. To download a zip of your files, click Save.",
+    
+    "save": "Save",
+    
+    "hi": "Hi!",
+    
+    "welcome": "I’ve always liked to draw, and during the last two semesters of my studies I’ve also developed interest in neural networks. The result is “Quick, help!” - the effect of my BCs thesis, which mixes these two topics, recreating Google’s game “Quick, Draw!”.\n\nIt is a game of charades - but with AI, a neural network, created by me. During ten rounds your job will be to draw ten given prompts, and my AI’s job will be to try and recognise what has been drawn.\n\n”Quick, help!” was also my first experience using JavaScript and React, as well as the initial reason standing behind the thought of rebranding to a front-end developer. The page is still under construction, but now I distribute my time for few other projects. However I have few more ideas I would love to include here!\n\nYou can observe work in progress by checking out Projects’ to-do lists in my GitHub repository: xxx. Right now, I am working on a gallery of pictures created!\n\n\nReady?",
+    
+    "draw_here": "Draw here!",
+    
+    "times_up": "Time's up!\nContinue (or if you like your drawing very much, you can also save it. For me, it is sent to the server in the moment you continue!)"
+    
+    }
