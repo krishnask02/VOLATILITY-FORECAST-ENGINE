@@ -1,0 +1,34 @@
+{
+    "cookie": "ciasteczko",
+    "smartphone": "smartfon",
+    "carrot": "marchewka",
+    "broccoli": "brokul",
+    "floor_lamp": "lampa stojaca",
+    "grass": "trawa",
+    "moon": "ksiezyc",
+    "mug": "kubek",
+    "sword": "miecz",
+    "sun": "slonce",
+
+    "loading": "Loading...",
+
+    "try1_try": "Spróbuj narysować",
+    "try2_15s": "w 15 sekund",
+
+    "thats_all": "To wszystko!\n\nObrazki zapisują się automatycznie na stworzonym przeze mnie serwerze.\nW razie błędów i uwag, skontaktuj się ze mną na Discordzie (Supernova#6608)",
+
+    "thanks_for_help": "Dziękuję za pomoc!",
+
+    "play_again": "Jezeli chcesz zagrac ponownie - kliknij przycisk. Zeby pobrac zipa/paczke swoich plikow, kliknij Zapisz.",
+
+    "save": "Zapisz",
+
+    "hi": "Hej!",
+
+    "welcome": "Zawsze lubiłam rysować, a w dwóch ostatnich semestrach studiów zainteresowałam się tematem sieci neuronowych. Skutkiem jest “Quick, help!” - efekt mojej pracy inżynierskiej, która łączy te dwa tematy, odtwarzając grę Google “Quick, Draw!”.\n\nZabawa polega na grze w kalambury ze stworzoną przeze mnie sztuczną inteligencją - czyli siecią neuronową. Podczas dziesięciu rund, twoim zadaniem będzie narysowanie dziesięciu podanych haseł, a zadaniem mojego AI - odgadnięcie, co zostało narysowane.\n\n“Quick, help!” było jednocześnie moją pierwszą stycznością z JavaScriptem i Reactem, a także inicjatorem pomysłu, by spróbować przebranżowić się na front-end developera. Strona jest cały czas w rozwoju, chociaż teraz rozkładam czas pomiędzy kilka projektów - ale mam jeszcze kilka pomysłów, które chciałabym tutaj wdrożyć.\n\nPrzebieg prac możesz zobaczyć w Projects na listach To-do w moim repozytorium: xxx. Aktualnie pracuję nad galerią wykonanych prac!\n\n\nGotów?",
+
+    "draw_here": "Rysuj tutaj!",
+
+    "times_up": "Czas się skończył!\nKontynuuj (lub jezeli twój obrazek ci się wyjątkowo podoba, mozesz go równiez sobie zapisać. U mnie wyląduje na serwerze w momencie kontynuacji!)"
+
+}
